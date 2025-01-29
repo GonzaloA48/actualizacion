@@ -1,0 +1,33 @@
+body {
+    background-color: rgb(232, 240, 237);
+    }
+    .cabecera {
+        background-color: #b9f7c7;
+        height: 140px;
+    }
+    .cabecera.Tributarios{
+        width: 5%;
+    }
+    .cabecera .nombre-sitio {
+        color: white;
+        font-size: 2em;
+        font-family: Arial, Helvetica, sans-serif;
+    }
+    .menu{
+        float: right;
+    }
+    .menu ul{
+        list-style: none;
+    }
+    .menu ul li {
+        display: inline-block;
+    }
+    .menu ul li a:hover{
+        font-size: 1.3em;
+        text-decoration: underline;
+    }
+    
+   
+
+   
+    
