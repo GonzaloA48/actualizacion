@@ -1,33 +1,34 @@
 body {
-    background-color: rgb(232, 240, 237);
-    }
-    .cabecera {
-        background-color: #b9f7c7;
-        height: 140px;
-    }
-    .cabecera.Tributarios{
-        width: 5%;
-    }
-    .cabecera .nombre-sitio {
-        color: white;
-        font-size: 2em;
-        font-family: Arial, Helvetica, sans-serif;
-    }
-    .menu{
-        float: right;
-    }
-    .menu ul{
-        list-style: none;
-    }
-    .menu ul li {
-        display: inline-block;
-    }
-    .menu ul li a:hover{
-        font-size: 1.3em;
-        text-decoration: underline;
-    }
-    
-   
-
-   
-    
+    background-color: rgb(238, 231, 221);
+}
+.cabecera{
+    background-color:rgb(226, 218, 218) ;
+    height: 250px;
+}
+.cabecera.TRIBUTARIOS{
+    width: 5%;
+}
+.nombre-sitio{
+    color: black;
+    font-size: 3em;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.menu{
+    float: right;
+}
+.menu ul{
+    list-style: none;
+}
+.menu ul li{
+    display: inline-block;
+}
+.menu ul li a:hover{
+    color:black;
+    font-size: 1.2em;
+    text-decoration: none;
+}
+.menu2 li a:hover{
+    color: red;
+    font-size: 1.2em;
+    text-decoration: none;
+}
