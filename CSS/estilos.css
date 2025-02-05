@@ -34,7 +34,7 @@ body {
 }
 .parrafo{
     font-family:Arial, Helvetica, sans-serif;
-    font-size: 13px;
+    font-size: 14px;
     text-align: justify;
     margin: 10px;
     padding: 20px;
@@ -45,12 +45,18 @@ body {
     font-size: 1.2em;
     text-decoration: none;
 }
-.menu3{
-    background-color:aqua
+.menu3 th, td{
+    text-align: center;
+    width: 5%;
+    padding: 10px;px;
+    border: solid 1px white;
+    background-color: rgb(209, 180, 127);
+}
+.parrafo2{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    padding: 20px;
     text-align: justify;
-    width: 100%;
-    padding:30px;
 }
-th, td{
-    border: solid 1px black;
-}
+
+    
